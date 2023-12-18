@@ -1,0 +1,5 @@
+{'artist': 'Dave Brubeck', 'song': 'Take Five', 'tempo': 174.21, 'time_signature': '5/4'}
+{'artist': 'Animals As Leaders', 'song': 'Red Miso', 'tempo': 89.601, 'time_signature': '4/4'}
+{'artist': 'King Gizzard & The Lizard Wizard', 'song': 'Crumbling Castle', 'tempo': 97.659, 'time_signature': '4/4'}
+{'artist': 'King Crimson', 'song': '21st Century Schizoid Man - Including "Mirrors"', 'tempo': 92.646, 'time_signature': '3/4'}
+{'artist': 'Bill Evans', 'song': 'Waltz For Debby', 'tempo': 61.542, 'time_signature': '4/4'}

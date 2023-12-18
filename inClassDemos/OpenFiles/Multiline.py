@@ -1,0 +1,5 @@
+f = open('./multilineFile.txt', 'w')
+f.write('line one of text \n')
+f.write('line two of text \n')
+f.write('line three of text \n')
+f.close()

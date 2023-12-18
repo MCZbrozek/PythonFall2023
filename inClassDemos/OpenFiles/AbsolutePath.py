@@ -1,0 +1,5 @@
+f = open('C:\\Users\\mczbr\\OneDrive\\Desktop\\aNewTextFile.txt', 'w')
+f.write("This is a completely marvelous file.\n")
+f.write('This file will bring joy to all who see it! \n ')
+f.write('Go forth and be joyful!')
+f.close()
